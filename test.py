@@ -18,7 +18,7 @@ with concurrent.futures.ProcessPoolExecutor(8) as pool:
 #     for ink in result:
 #         print(ink)
 
-# ps = []
+# ps = []  ghjg
 # for i in range(8):
 #     p = multiprocessing.Process(target = something, args=[i+1])
 #     p.start()
